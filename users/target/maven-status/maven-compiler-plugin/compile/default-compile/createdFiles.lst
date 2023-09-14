@@ -1,0 +1,7 @@
+it\jdk\demomicroservicesuser\controller\UserController.class
+it\jdk\demomicroservicesuser\VO\ResponseTemplateVO.class
+it\jdk\demomicroservicesuser\DemoMicroservicesUserApplication.class
+it\jdk\demomicroservicesuser\service\UserService.class
+it\jdk\demomicroservicesuser\VO\Department.class
+it\jdk\demomicroservicesuser\entity\UserEntity.class
+it\jdk\demomicroservicesuser\repository\UserRepository.class

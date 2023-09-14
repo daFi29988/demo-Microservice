@@ -1,0 +1,5 @@
+it\jdk\demomicroservicesdeparment\repository\DepartmentRepository.class
+it\jdk\demomicroservicesdeparment\service\DepartmentService.class
+it\jdk\demomicroservicesdeparment\entity\Department.class
+it\jdk\demomicroservicesdeparment\controller\DepartmentController.class
+it\jdk\demomicroservicesdeparment\DemoMicroservicesDeparmentApplication.class
